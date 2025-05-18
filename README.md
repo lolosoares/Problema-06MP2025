@@ -9,3 +9,6 @@ O programa recebe de um Teclado 4x4 valores e imprime em um LCD 16x2. Foi feito 
 
 # Solucao com monitor serial:
 https://www.tinkercad.com/things/13Pa7COXfNP-/editel?returnTo=%2Fthings%2F13Pa7COXfNP-fantabulous-jarv-fulffy&sharecode=tHd55nO-fb5HCxI18cuM3CxLDaqa5E4l1rdQDZ5m0Dc
+
+# Solucao com lcd:
+https://www.tinkercad.com/things/a0qkuBE3Pgi-sizzling-albar-kasi/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=ik_7rCn4Y1zxpJX3zxXaP02pRoRK3ptvyzr-kv8RvG4
