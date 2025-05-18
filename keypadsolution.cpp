@@ -34,9 +34,7 @@ void loop() {
       valorDigitado = "";
       Serial.println("Limpo.");
     } else {
-      //valorDigitado += tecla;
-      //Serial.print("Digitado: ");
-      //Serial.println(valorDigitado);
+      valorDigitado += tecla;
     }
   }
 }
